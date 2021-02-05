@@ -1,2 +1,3 @@
 # GlobalAIHubPythonCourse
-Arzu_Atasoy
+
+print("Hello, I am Arzu Atasoy")
