@@ -1,0 +1,2 @@
+# GlobalAIHubPythonCourse
+Arzu_Atasoy
